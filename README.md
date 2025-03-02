@@ -7,7 +7,7 @@ I'm a web developer & IT technician
 I always strive to be a good developer and technician by following the news and trends in IT developments and techniques
 
 * 🌍  I'm based in Madagascar
-* 🖥️  See my portfolio at [vercel](https://mini-portfolio-rianasantatra-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [netlify](https://rianasantatra.netlify.app/)
 * ✉️  You can contact me at [rianasantatra665@gmail.com](mailto:rianasantatra665@gmail.com)
 * 🧠  I'm learning Laravel, Django, React
 * 🤝  I'm open to collaborating on In the above list I'm learning
