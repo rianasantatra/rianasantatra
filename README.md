@@ -1,7 +1,7 @@
 Hi 👋 My name is Riana Santatra
 ===============================
 
-I'm a web developer & IT technician
+I'm a Junior web developer & IT technician
 -----------------------------------
 
 I always strive to be a good developer and technician by following the news and trends in IT developments and techniques
