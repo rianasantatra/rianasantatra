@@ -73,9 +73,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rianasantatra/rianasantatra/output/snake.svg" alt="Snake animation" />
-
-###
