@@ -1,5 +1,3 @@
-<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/f8a9c6aa-a61f-41b3-a949-1f92611a9f6a" /><br clear="both">
-
 <h1 align="center">Hey 👋What's Up ?</h1>
 
 ###
